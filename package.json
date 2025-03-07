@@ -4,7 +4,7 @@
   "description": "'Learning to use express with wonderful instructor The Teaching GOAT Andrew Mead'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "author": "Mattrey Kumar Rana",
   "license": "ISC",
